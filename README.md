@@ -17,7 +17,7 @@ A modern landing page built with HTML  and tailwind CSS featuring responsive lay
 
   Customer reviews section
 
-  FAQ section using HTML <details> and<summary>
+  FAQ section 
 
   Hover and transitions
 
